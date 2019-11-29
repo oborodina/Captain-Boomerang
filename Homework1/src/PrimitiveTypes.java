@@ -13,6 +13,5 @@ public class PrimitiveTypes {
         System.out.println(l - i);
         System.out.println(d * b);
         System.out.println(f / i);
-
     }
 }
