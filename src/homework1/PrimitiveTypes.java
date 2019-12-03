@@ -1,4 +1,4 @@
-package Homework1;
+package homework1;
 
 public class PrimitiveTypes {
         public static void main(String[] args) {

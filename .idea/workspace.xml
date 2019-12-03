@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f430e250-37e6-4dca-ac09-ca84fc4074ae" name="Default Changelist" comment="" />
+    <list default="true" id="f430e250-37e6-4dca-ac09-ca84fc4074ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework1/PrimitiveTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework1/PrimitiveTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/ArrayFindDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/ArrayFindDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/AverageNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/AverageNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/PositiveNumbersSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/PositiveNumbersSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/SortArray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/SortArray1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/SortArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/SortArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework1/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/PrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/ArrayFindDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/ArrayFindDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/AverageNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/AverageNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/PositiveNumbersSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/PositiveNumbersSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/SortArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/SortArray1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/SortArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/SortArray2.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,25 +27,54 @@
     <option name="myElementSize" value="217" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Homework2/ArrayFindDuplicates.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/homework2/ArrayFindDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="304">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Homework2/AverageNum.java">
+        <entry file="file://$PROJECT_DIR$/src/homework2/PositiveNumbersSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="57">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/homework2/SortArray1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/homework2/SortArray2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/homework2/AverageNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -58,6 +101,10 @@
         <option value="$PROJECT_DIR$/src/Homework2/Task2_Theory:Why Array size should be fixed" />
         <option value="$PROJECT_DIR$/src/Homework2/AverageNum.java" />
         <option value="$PROJECT_DIR$/src/Homework2/ArrayFindDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/homework2/ArrayFindDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/homework2/SortArray2.java" />
+        <option value="$PROJECT_DIR$/src/homework2/PositiveNumbersSum.java" />
+        <option value="$PROJECT_DIR$/src/homework2/AverageNum.java" />
       </list>
     </option>
   </component>
@@ -87,6 +134,17 @@
             </path>
             <path>
               <item name="JavaCursor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCursor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCursor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCursor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCursor" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -98,6 +156,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -112,13 +171,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayFindDuplicates">
+  <component name="RunManager" selected="Application.AverageNum">
     <configuration name="ArrayFindDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.ArrayFindDuplicates" />
+      <option name="MAIN_CLASS_NAME" value="homework2.ArrayFindDuplicates" />
       <module name="JavaCursor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +186,11 @@
       </method>
     </configuration>
     <configuration name="AverageNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.AverageNum" />
+      <option name="MAIN_CLASS_NAME" value="homework2.AverageNum" />
       <module name="JavaCursor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +199,11 @@
       </method>
     </configuration>
     <configuration name="PositiveNumbersSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.PositiveNumbersSum" />
+      <option name="MAIN_CLASS_NAME" value="homework2.PositiveNumbersSum" />
       <module name="JavaCursor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +212,11 @@
       </method>
     </configuration>
     <configuration name="SortArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.SortArray1" />
+      <option name="MAIN_CLASS_NAME" value="homework2.SortArray1" />
       <module name="JavaCursor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +225,11 @@
       </method>
     </configuration>
     <configuration name="SortArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.SortArray2" />
+      <option name="MAIN_CLASS_NAME" value="homework2.SortArray2" />
       <module name="JavaCursor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework2.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,10 +239,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayFindDuplicates" />
         <item itemvalue="Application.AverageNum" />
         <item itemvalue="Application.PositiveNumbersSum" />
         <item itemvalue="Application.SortArray2" />
+        <item itemvalue="Application.ArrayFindDuplicates" />
         <item itemvalue="Application.SortArray1" />
       </list>
     </recent_temporary>
@@ -203,26 +262,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19347826" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19710144" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.05775076" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32978722" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.2887538" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2887538" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.11398176" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32971016" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -231,6 +290,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32971016" />
     </layout>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -239,55 +299,49 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Homework1/PrimitiveTypes.java">
+    <entry file="file://$PROJECT_DIR$/src/homework1/PrimitiveTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework2/Task2_Theory:Why Array size should be fixed">
+    <entry file="file://$PROJECT_DIR$/src/Homework2/Task2_Theory:Why Array size should be fixed" />
+    <entry file="file://$PROJECT_DIR$/src/homework2/ArrayFindDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="304">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework2/SortArray2.java">
+    <entry file="file://$PROJECT_DIR$/src/homework2/SortArray1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homework2/SortArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework2/PositiveNumbersSum.java">
+    <entry file="file://$PROJECT_DIR$/src/homework2/PositiveNumbersSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="57">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework2/SortArray1.java">
+    <entry file="file://$PROJECT_DIR$/src/homework2/AverageNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework2/AverageNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Homework2/ArrayFindDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state>
+          <caret selection-end-line="16" />
         </state>
       </provider>
     </entry>
