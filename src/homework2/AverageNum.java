@@ -6,7 +6,7 @@ public class AverageNum {
         double sum = 0;
         int length = arr.length;
 
-        for (int i:arr) {
+        for (int i : arr) {
             sum += i;
         }
         double avr = sum / length;

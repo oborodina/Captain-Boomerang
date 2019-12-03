@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f430e250-37e6-4dca-ac09-ca84fc4074ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework1/PrimitiveTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework1/PrimitiveTypes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/ArrayFindDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/ArrayFindDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/AverageNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/AverageNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/PositiveNumbersSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/PositiveNumbersSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/SortArray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/SortArray1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/SortArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/Homework2/SortArray2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework1/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/PrimitiveTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/ArrayFindDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/ArrayFindDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/AverageNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/AverageNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/PositiveNumbersSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/PositiveNumbersSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/SortArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/SortArray1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/SortArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/SortArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/AverageNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/AverageNum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/homework2/AverageNum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="16" />
+              <caret selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -262,7 +250,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -271,13 +258,13 @@
       <window_info id="Image Layers" order="4" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19710144" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.05775076" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.29483283" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32978722" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2887538" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2887538" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.11398176" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -341,7 +328,7 @@
     <entry file="file://$PROJECT_DIR$/src/homework2/AverageNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="16" />
+          <caret selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
