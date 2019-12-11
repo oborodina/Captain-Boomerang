@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f430e250-37e6-4dca-ac09-ca84fc4074ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/homework3/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/homework3/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/homework3/ObectsNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCursor/homework3/Some.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCursor/homework3/Some.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ObjectsNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ObjectsNumber.java" afterDir="false" />
-    </list>
+    <list default="true" id="f430e250-37e6-4dca-ac09-ca84fc4074ae" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
