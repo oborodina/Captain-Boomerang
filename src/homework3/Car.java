@@ -18,7 +18,7 @@ public class Car {
     }
 
     public void carStop () {
-        go = false;
+        go = false;git sta
         System.out.println("Car stop");
     }
 
