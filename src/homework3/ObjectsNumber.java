@@ -1,6 +1,6 @@
 package homework3;
 
-public class ObeysNumber {
+public class ObjectsNumber {
 
     public static void main (String[] args) {
 
