@@ -1,31 +1,28 @@
 package homework3;
 
 public class Car {
-    public boolean go;
-    public int speed;
+    private String nameCar;
+    private boolean go;
+    private int speed;
 
-    public static void main (String[] args) {
-        Car goCar = new Car();
-
-        goCar.carStart();
-        goCar.carGo(100);
-        goCar.carStop();
+    Car (String name, int speed) {
+        this.nameCar = name;
+        this.speed = speed;
     }
 
     public void carStart () {
-        go = true;
-        System.out.println("Car start");
+        this.go = true;
+        System.out.println(this.nameCar + " starts");
     }
 
     public void carStop () {
-        go = false;
-        System.out.println("Car stop");
+        this.go = false;
+        System.out.println(this.nameCar + " stops");
     }
 
-    public void carGo (int number) {
-        if (go) {
-            speed = number;
-            System.out.println("Car goes" + " speed:" + speed);
+    public void carGo () {
+        if (this.go) {
+            System.out.println(this.nameCar + " goes" + " speed:" + this.speed);
         }
     }
 }
