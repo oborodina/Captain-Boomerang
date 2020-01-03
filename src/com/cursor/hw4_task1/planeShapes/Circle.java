@@ -7,7 +7,7 @@ public class Circle extends PlaneShape {
     private double radius;
     private double PI = Math.PI;
 
-    Circle (double x1, double y1, double x3, double y3) {
+    public Circle (double x1, double y1, double x3, double y3) {
         super(x1, y1, x3, y3);
         this.x1 = x1;
         this.y1 = y1;

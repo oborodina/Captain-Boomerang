@@ -6,7 +6,7 @@ public class Sphere extends SpaceShape {
     private double PI = Math.PI;
     private double radius;
 
-    Sphere (double x1, double y1, double z1, double x2, double y2, double z2) {
+    public Sphere (double x1, double y1, double z1, double x2, double y2, double z2) {
         super(x1, y1, z1, x2, y2, z2);
         this.x1 = x1;
         this.y1 = y1;

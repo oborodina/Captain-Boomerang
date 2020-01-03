@@ -9,7 +9,7 @@ public class Rectangle extends PlaneShape {
     private double x4;
     private double y4;
 
-    Rectangle (double x1, double y1, double x4, double y4, double x3, double y3) {
+    public Rectangle (double x1, double y1, double x4, double y4, double x3, double y3) {
         super(x1, y1, x3, y3);
         this.x1 = x1;
         this.y1 = y1;
